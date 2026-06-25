@@ -8,3 +8,9 @@ def subtract(a,b,c):
 def mult(a,b):
     return a*b
     
+def divi(a,b):
+    if b !=0:
+        return a/b
+    else:
+        print("can not divide")
+        
